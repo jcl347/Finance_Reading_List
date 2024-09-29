@@ -18,7 +18,9 @@ My goals:
 2. Document my thoughts on books
 3. Learn. 
 
-## Books
+## Books / Courses
+**Python and Statistics for Financial Analysis** by Cloudera
+https://www.coursera.org/learn/python-statistics-financial-analysis/lecture/dMTBu/course-overview
 
 ## Articles
 
@@ -27,5 +29,13 @@ https://www.investopedia.com/articles/optioninvestor/09/get-started-with-futures
 
 > _2024_
 
+**Mathematical Models of Financial Derivatives: Oxford Mathematics 3rd Year Student Lecture** by Sam Cohen
+https://www.youtube.com/watch?v=j1oV2BTSi1s
+
+> _2020_
+
 ## Up Next
-* 
+* Stochastic Calculus for Finance I: The Binomial Asset Pricing Model
+* Stochastic Calculus for Finance II: Continuous-Time Models
+* Implementing Derivative Models
+* Statistical Analysis of Financial Data in R
