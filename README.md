@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=j1oV2BTSi1s
 * Stochastic Calculus for Finance II: Continuous-Time Models
 * Implementing Derivative Models
 * Statistical Analysis of Financial Data in R
+  
+## Important Resources
+* IEM simulated futures trading: https://iem.uiowa.edu/iem/trader/TraderSignup.action?newTraderSignupForm=
